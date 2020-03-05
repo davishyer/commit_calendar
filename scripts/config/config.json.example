@@ -1,0 +1,8 @@
+{
+  "author": "",
+  "projectRoot": "/path/to/projects/",
+  "repositories": [
+    "project1/",
+    "project2/"
+  ]
+}

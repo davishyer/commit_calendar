@@ -11,10 +11,9 @@
     "react-scripts": "3.4.0"
   },
   "scripts": {
+    "generate": "./generateCalendar.sh",
     "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "setup": "./setup.sh"
   },
   "eslintConfig": {
     "extends": "react-app"
